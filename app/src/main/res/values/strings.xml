@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SearchView</string>
+    <string-array name="array_nombres">
+        <item>ACOSTA BALDERAS JUAN CARLOS</item>
+        <item>BERNAL SANCHEZ CESAR OSWALDO</item>
+        <item>CEREZO ARREOLA JOSE MANUEL</item>
+        <item>PAEZ AYALA YAMIR EZEQUIEL</item>
+        <item>GONZALEZ QUINTANA BRYAN UZIEL</item>
+        <item>ACOSTA ORTEGA JESUS HUMBERTO</item>
+        <item> DEL ANGEL SALINAS GRECIA DAYANA</item>
+        <item>HERAS RODRIGUEZ FABIAN IVAN</item>
+        <item>CORREA SÁNCHEZ JORGE SAID</item>
+        <item>SÁNCHEZ LIZÁRRAGA JESÉ ROBERTO</item>
+        <item>MELLADO ZAMUDIO JUAN CARLOS</item>
+        <item> CAPACETA MAGALLANES ALVARO ANTONIO</item>
+        <item> ARIAS ARENAS LUIS ALEJANDRO</item>
+        <item> LOPEZ CHAVEZ BRAULIO RICARDO</item>
+        <item> HERNANDEZ VELASQUEZ ANGEL MANUEL</item>
+        <item> LOPEZ ROBLES JESUS DANIEL</item>
+        <item> TREJO TIRADO MARGARITA</item>
+        <item> ACOSTA VARELA IRVING GUADALUPE</item>
+        <item> VALDIVIEZO GOMEZ MICHELLE ALEJANDRA</item>
+        <item> LIZARRAGA MOTTA ALEJANDRO</item>
+        <item> LOPEZ SILVAS YAMILETH CRISTINA</item>
+        <item> LOAIZA BOJORQUEZ ARELY CONSUELO</item>
+        <item>LOPEZ DIAZ MARVIN ALEJANDRO</item>
+        <item>ROMERO SANDOVAL VICTOR DONNOVAN</item>
+        <item> PEINADO ÁVILA JESUS ALEJANDRO</item>
+        <item> ALMOGABAR VÁZQUEZ YARLEN DE JESÚS</item>
+    </string-array>
+</resources>
